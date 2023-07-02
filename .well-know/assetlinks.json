@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rowerguaman.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["1B:BE:60:AA:F9:63:38:17:18:36:F5:B3:89:BF:67:5C:EE:52:3D:0D:F9:67:AB:74:1F:4A:AE:D5:85:F6:61:B5"]
+    }
+  }]
+  
